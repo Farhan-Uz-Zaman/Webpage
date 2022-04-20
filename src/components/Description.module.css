@@ -1,0 +1,38 @@
+.description {
+  text-align: justify;
+  width: 50%;
+  margin: auto;
+  margin-top: -28rem;
+  margin-bottom: 8rem;
+  margin-right: 10rem;
+  position: relative;
+  background-color: #383838;
+  color: white;
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+}
+.description h2 {
+  font-size: 2rem;
+  margin-top: 0;
+}
+@media only screen and (max-width: 550px) {
+  .description {
+    width: 50%;
+    margin-top: 0.1rem;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 0rem;
+    font-size: 0.8rem;
+  }
+}
+@media only screen and (max-width: 1110px) {
+  .description {
+    width: 70%;
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+    margin-left: 1.5rem;
+    padding: 0.5rem;
+    font-size: 1.1rem;
+  }
+}

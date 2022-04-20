@@ -1,0 +1,33 @@
+.interests {
+  margin-left: 5rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  width: 80%;
+  text-align: justify;
+}
+@media screen and (max-width: 640px) {
+  .interests {
+    justify-content: space-between;
+    margin-left: 2px;
+    font-size: 0.8rem;
+    width: 60%;
+    zoom: 1;
+  }
+  a {
+    width: 50%;
+    font-size: 0.8rem;
+  }
+}
+@media only screen and (max-width: 1110px) {
+  .interests {
+    width: 70%;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    margin-left: 1.5rem;
+    padding: 0.5rem;
+    font-size: 1.1rem;
+  }
+  a {
+    font-size: 1.1rem;
+  }
+}
