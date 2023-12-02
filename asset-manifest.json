@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Webpage/static/css/main.a5ca492b.chunk.css",
-    "main.js": "/Webpage/static/js/main.1708da51.chunk.js",
-    "main.js.map": "/Webpage/static/js/main.1708da51.chunk.js.map",
+    "main.css": "/Webpage/static/css/main.8e184d9f.chunk.css",
+    "main.js": "/Webpage/static/js/main.ce8695e9.chunk.js",
+    "main.js.map": "/Webpage/static/js/main.ce8695e9.chunk.js.map",
     "runtime-main.js": "/Webpage/static/js/runtime-main.39c0d310.js",
     "runtime-main.js.map": "/Webpage/static/js/runtime-main.39c0d310.js.map",
     "static/js/2.46e4908c.chunk.js": "/Webpage/static/js/2.46e4908c.chunk.js",
     "static/js/2.46e4908c.chunk.js.map": "/Webpage/static/js/2.46e4908c.chunk.js.map",
     "index.html": "/Webpage/index.html",
-    "static/css/main.a5ca492b.chunk.css.map": "/Webpage/static/css/main.a5ca492b.chunk.css.map",
+    "static/css/main.8e184d9f.chunk.css.map": "/Webpage/static/css/main.8e184d9f.chunk.css.map",
     "static/js/2.46e4908c.chunk.js.LICENSE.txt": "/Webpage/static/js/2.46e4908c.chunk.js.LICENSE.txt",
     "static/media/FarhanUzZaman.4dcb89da.jpg": "/Webpage/static/media/FarhanUzZaman.4dcb89da.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.39c0d310.js",
     "static/js/2.46e4908c.chunk.js",
-    "static/css/main.a5ca492b.chunk.css",
-    "static/js/main.1708da51.chunk.js"
+    "static/css/main.8e184d9f.chunk.css",
+    "static/js/main.ce8695e9.chunk.js"
   ]
 }
